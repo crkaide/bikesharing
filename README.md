@@ -8,6 +8,7 @@ The purpose of the analysis is well defined.
 ## Results
 
 ### WHO & WHEN: Usertypes and weekdays
+![1](https://github.com/crkaide/bikesharing/blob/main/images/1.png?raw=true)
 Analysis of a customer's bikesharing adventure begins with the "who" and "when."  Bikesharing is much more heavily utilized by subscribers than by-ride customers, and is much more heavily utilized by men than women.  While Thurs. and Fri. are highest-use days, business is noticeably lighter on Sat., Sun, and Wed.  Consider pricing incentives for by-ride customers on lighter days to capitalize on the bike "fleet" when subscriber use is lite, as well as encourage repeat business (e.g., rent a bike Saturday full-price, rent a bike Sunday for half).
 
 ### WHO: Trips by gender
