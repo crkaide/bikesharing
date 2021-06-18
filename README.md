@@ -2,7 +2,7 @@
 [link to dashboard](https://public.tableau.com/app/profile/chandler.kaiden/viz/NYC_Citibike_Challenge_16235648593520/Story1 "link to dashboard")
 
 ## Overview
-On a trip with a friend to New York City last summer, we made use of a bikesharing service called CitiBike that allowed us to bike to tourist attractions such as Central Park, the Statue of Liberty, and the Empire State building, as well as interact more directly with the people and the environment than we would have been able to do in a car.  We propose a similar bikesharing business in Des Moines, IA, and this analysis is intended to secure the seed funding for that project.  Initial analysis includes the mechanics and trends of this business as it exists in NYC presented on an interactive Tableau dashboard.
+On a trip with a friend to New York City last summer, we made use of a bikesharing service called CitiBike that allowed us to bike to tourist attractions such as Central Park, the Statue of Liberty, and the Empire State building, as well as interact more directly with the people and the environment than we would have been able to do in a car.  We propose a similar bikesharing business in Des Moines, IA, and this analysis is intended to secure the seed funding for that project.  Initial analysis includes the mechanics and trends of this business as it exists in NYC presented in an interactive Tableau dashboard.
 
 ## Results
 
