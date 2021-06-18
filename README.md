@@ -2,8 +2,7 @@
 [link to dashboard](https://public.tableau.com/app/profile/chandler.kaiden/viz/NYC_Citibike_Challenge_16235648593520/Story1 "link to dashboard")
 
 ## Overview
-OVERVIEW TEXT
-The purpose of the analysis is well defined.
+On a trip with a friend to New York City last summer, we made use of a bikesharing service called CitiBike that allowed us to bike to tourist attractions such as Central Park, the Statue of Liberty, and the Empire State building, as well as interact more directly with the people and the environment than we would have been able to do in a car.  We propose a similar bike-sharing business in Des Moines, IA, and this analysis is intended to secure the seed funding for that project.  Initial analysis includes the mechanics and trends of this business as it exists in NYC presented on an interactive Tableau dashboard.
 
 ## Results
 
@@ -40,7 +39,9 @@ Just as there are consistently busy times whether bikers are incoming or outgoin
 There is inconsistent use across the bike fleet.  There are bikes with nearly 500 uses, as well as bikes with fewer than 10 uses.  Presumably the older bikes are aging out, and the majority of bikes in the fleet are in the middle of their lifespan or newer.
 
 ## Summary
-There is a high-level summary of the results and two additional visualizations are suggested for future analysis
-  Box plot for bike use to assess the current condition of the fleet.
-  Cut time and stopping/starting locations—we should be able to analyze time on these maps (maybe a filter)
-  Figure out tourists vs workers
+While there are going to be necessary differences between operating a bikesharing business in Des Moines vs. NYC, this analysis identifies attributes that are likely to remain attractive to customers regardless of their location, as well as trends an Iowa-based business could capitalize on.  While there is a robust market for short (read: transportation-only rides) in a larger city such as NYC that may not translate to suburban areas with wider sprawl, the popularity of pickup and dropoff sites proximate to desirable geographic scenery indicates a strong "tourist attraction" element of the bikesharing experience that may be superior in a city like Des Moines with lighter pedestrian traffic.  Gender breakdown of the city will not affect customer behavior, but a higher proportion of males in the local population could predict higher subscriber counts and greater success.  In brief, the business is best centrally located in a place in Des Moines where men utilize it primarily for short trips in the morning hours--this is the cornerstone of the customer base.
+
+## Add'l analysis
+1. I recommend generating a box plot for bicycle use to assess the current general condition of the fleet, as well as to inform the "aging out" of bicycles and the purchase of replacements.
+2. I also recommend creating an additional geographical map that takes into account travel hours/time of day.  While some exchange sites seem to be significantly more popular than others, this may be dependent on when they're being utilized (e.g., there's a mad rush in the morning and they're dead in the afternoon, while other sites may do consistent business throughout the day).
+3. If possible, incorporate analysis that takes into account the tourist trade in Des Moines vs. NYC.  While it's likely that a successful business will cater most to its bread-and-butter, the 5-min. male riders going short distances, tourism to NYC may account for a share of the business that cannot be easily replicated in Des Moines.
